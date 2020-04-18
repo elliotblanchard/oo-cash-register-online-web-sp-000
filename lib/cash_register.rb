@@ -7,4 +7,8 @@ class CashRegister
     @employee_discount = employee_discount
   end
 
+  def total
+    @total
+  end
+
 end
